@@ -12,7 +12,7 @@ PAC-MATH is a **1 v 4 asymmetric LAN multiplayer** reimagining of the
 arcade classic, wrapped in a neon-Gothic aesthetic called *The Principia of
 Darkness*.  One player controls Pac-Man; four others take on the roles of
 ghosts— each named after a legendary mathematician.
-
+   
 ---
 
 ## Features
